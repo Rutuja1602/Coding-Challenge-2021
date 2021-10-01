@@ -1,1 +1,1 @@
-# Coding-Challenge-2021
+# CodingChallenge2021
